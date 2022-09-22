@@ -1,0 +1,38 @@
+PODS:
+  - DropDown (2.3.13)
+  - FSCalendar (2.8.2)
+  - iOSDropDown (0.3.4)
+  - OpalImagePicker (3.0.0)
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+  - RealmSwift (4.4.1):
+    - Realm (= 4.4.1)
+
+DEPENDENCIES:
+  - DropDown
+  - FSCalendar
+  - iOSDropDown
+  - OpalImagePicker
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - FSCalendar
+    - iOSDropDown
+    - OpalImagePicker
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  FSCalendar: e6a2eb9c571bf0719ed797ef807e08426753c241
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  OpalImagePicker: 38e772dd93a54431fc516b33e1f337c50f745834
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+  RealmSwift: 3eb8924ff7100df5928c7602f71d0fec51e7c9c5
+
+PODFILE CHECKSUM: 721a821392120ee6205559c77aa79faf8d9b8cc1
+
+COCOAPODS: 1.10.1
